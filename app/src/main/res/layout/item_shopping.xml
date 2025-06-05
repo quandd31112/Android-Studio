@@ -28,7 +28,6 @@
         android:layout_width="36dp"
         android:layout_height="36dp"
         android:src="@android:drawable/ic_menu_edit"
-        android:background="@null"
         android:contentDescription="@string/edit"
         android:padding="4dp"/>
 
@@ -37,7 +36,6 @@
         android:layout_width="36dp"
         android:layout_height="36dp"
         android:src="@android:drawable/ic_menu_delete"
-        android:background="@null"
         android:contentDescription="@string/delete"
         android:padding="4dp"/>
 </LinearLayout>
